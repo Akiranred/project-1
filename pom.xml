@@ -28,7 +28,11 @@
 <distributionManagement>
   <repository>
     <id>releases</id>
+ patch-2
+     <url>http://3.133.101.63:8081/nexus/content/repositories/releases</url>
+
     <url>http://34.219.12.72:8081/nexus/content/repositories/releases</url>
+master
   </repository>
 </distributionManagement>
 </project>
